@@ -1,5 +1,3 @@
-local QBCore = exports['qb-core']:GetCoreObject()
-
 --- Main 
 RegisterNetEvent('kto_guidebook:openbook', function()
 
